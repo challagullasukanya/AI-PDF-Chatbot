@@ -63,10 +63,11 @@ AI-PDF-Chatbot/
 10 .Display the generated answer in the chat interface.
 ```
 
-## **🔧 Installation**
+## 🛠️ Installation
 
-Clone the repository:
+### 1. Clone the Repository
 
+```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd AI-PDF-Chatbot
 
