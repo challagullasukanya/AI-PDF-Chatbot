@@ -110,7 +110,6 @@ Find information about a specific topic.
 **🔒 Privacy**
 
 The uploaded PDF is processed locally by the application. API credentials are stored using environment variables and should not be committed to GitHub.
-
 ```
 
 **👩‍💻 Author**
