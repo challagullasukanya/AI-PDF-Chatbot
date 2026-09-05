@@ -62,9 +62,8 @@ AI-PDF-Chatbot/
 9. Send the prompt to the LLM.
 10 .Display the generated answer in the chat interface.
 ```
-
-## 🛠️ Installation
-
+## **🛠️ Installation**
+```text
 ### 1. Clone the Repository
 
 ```bash
@@ -98,8 +97,8 @@ streamlit run app.py
 The application will open in your browser.
 ```
 
-**💡 Example Questions**
-
+## **💡 Example Questions**
+```
 After uploading a PDF, you can ask:
 
 What is this document about?
