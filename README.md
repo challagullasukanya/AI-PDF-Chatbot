@@ -64,7 +64,7 @@ AI-PDF-Chatbot/
 ```
 
 🔧 Installation
-
+---
 Clone the repository:
 
 ```bash
@@ -104,6 +104,7 @@ Run the Streamlit application:
 streamlit run app.py
 
 The application will open in your browser.
+
 ```
 
 ## **💡 Example Questions**
@@ -115,6 +116,7 @@ Summarize the main points.
 Explain the important topics.
 What are the key concepts discussed?
 Find information about a specific topic.
+
 ```
 
 **🔒 Privacy**
@@ -122,12 +124,13 @@ Find information about a specific topic.
 The uploaded PDF is processed locally by the application. API credentials are stored using environment variables and should not be committed to GitHub.
 
 ```
-**👩‍💻 Author**
 
+**👩‍💻 Author**
+---
 Sukanya Chalalgulla
 
----
+```
 
 **📄 License**
-
+---
 This project is created for educational and learning purposes.   
