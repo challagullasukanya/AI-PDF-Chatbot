@@ -62,6 +62,7 @@ AI-PDF-Chatbot/
 9. Send the prompt to the LLM.
 10 .Display the generated answer in the chat interface.
 ```
+
 ## **🔧 Installation**
 
 Clone the repository:
