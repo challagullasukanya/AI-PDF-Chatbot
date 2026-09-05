@@ -61,7 +61,6 @@ AI-PDF-Chatbot/
 8. Build a prompt using the retrieved information.
 9. Send the prompt to the LLM.
 10 .Display the generated answer in the chat interface.
-
 ```
 ## **🔧 Installation**
 
@@ -86,19 +85,19 @@ pip install -r requirements.txt
 Create a .env file in the project directory:
 
 OPENROUTER_API_KEY=your_api_key_here
-
+```
 
 ##**▶️ Run the Application**
 
-```
 Run the Streamlit application:
 
 streamlit run app.py
 
 The application will open in your browser.
+```
 
 **💡 Example Questions**
-```
+
 After uploading a PDF, you can ask:
 
 What is this document about?
@@ -106,14 +105,18 @@ Summarize the main points.
 Explain the important topics.
 What are the key concepts discussed?
 Find information about a specific topic.
-**🔒 Privacy**
 ```
+
+**🔒 Privacy**
+
 The uploaded PDF is processed locally by the application. API credentials are stored using environment variables and should not be committed to GitHub.
+```
 
 **👩‍💻 Author**
-```
+
 Sukanya Chalalgulla
+```
 
 **📄 License**
-```
+
 This project is created for educational and learning purposes.   
