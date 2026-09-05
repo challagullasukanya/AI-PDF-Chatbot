@@ -63,30 +63,37 @@ AI-PDF-Chatbot/
 10 .Display the generated answer in the chat interface.
 ```
 
-## **🛠️ Installation**
----
+🔧 Installation
 
-### 1. Clone the Repository
+Clone the repository:
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd AI-PDF-Chatbot
+```
 
 Create a virtual environment:
 
+```bash
 python -m venv venv
+```
 
 Activate the virtual environment on Windows:
 
+```bash
 venv\Scripts\activate
+```
 
 Install the required packages:
 
+```bash
 pip install -r requirements.txt
+```
 🔐 Environment Variables
 
 Create a .env file in the project directory:
 
+```bash
 OPENROUTER_API_KEY=your_api_key_here
 ```
 
@@ -116,11 +123,11 @@ The uploaded PDF is processed locally by the application. API credentials are st
 
 ```
 **👩‍💻 Author**
----
+
 Sukanya Chalalgulla
 
-```
+---
 
 **📄 License**
----
+
 This project is created for educational and learning purposes.   
