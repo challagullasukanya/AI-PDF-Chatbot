@@ -48,9 +48,9 @@ AI-PDF-Chatbot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-##⚙️ How It Works
 ```
+## **⚙️ How It Works**
+
 1. Upload a PDF document.
 2. Extract text from the PDF.
 3. Split the text into smaller chunks.
@@ -62,8 +62,9 @@ AI-PDF-Chatbot/
 9. Send the prompt to the LLM.
 10 .Display the generated answer in the chat interface.
 
-##🔧 Installation
 ```
+## **🔧 Installation**
+
 Clone the repository:
 
 git clone YOUR_GITHUB_REPOSITORY_URL
@@ -87,7 +88,7 @@ Create a .env file in the project directory:
 OPENROUTER_API_KEY=your_api_key_here
 
 
-▶️ Run the Application
+##**▶️ Run the Application**
 
 ```
 Run the Streamlit application:
@@ -96,7 +97,7 @@ streamlit run app.py
 
 The application will open in your browser.
 
-💡 Example Questions
+**💡 Example Questions**
 ```
 After uploading a PDF, you can ask:
 
@@ -105,14 +106,14 @@ Summarize the main points.
 Explain the important topics.
 What are the key concepts discussed?
 Find information about a specific topic.
-🔒 Privacy
+**🔒 Privacy**
 ```
 The uploaded PDF is processed locally by the application. API credentials are stored using environment variables and should not be committed to GitHub.
 
-👩‍💻 Author
+**👩‍💻 Author**
 ```
 Sukanya Chalalgulla
 
-📄 License
+**📄 License**
 ```
 This project is created for educational and learning purposes.   
