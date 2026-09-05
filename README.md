@@ -62,8 +62,10 @@ AI-PDF-Chatbot/
 9. Send the prompt to the LLM.
 10 .Display the generated answer in the chat interface.
 ```
+
 ## **🛠️ Installation**
-```text
+---
+
 ### 1. Clone the Repository
 
 ```bash
@@ -98,7 +100,7 @@ The application will open in your browser.
 ```
 
 ## **💡 Example Questions**
-```
+---
 After uploading a PDF, you can ask:
 
 What is this document about?
@@ -109,16 +111,16 @@ Find information about a specific topic.
 ```
 
 **🔒 Privacy**
-
+---
 The uploaded PDF is processed locally by the application. API credentials are stored using environment variables and should not be committed to GitHub.
+
 ```
-
 **👩‍💻 Author**
-
+---
 Sukanya Chalalgulla
 
 ```
 
 **📄 License**
-
+---
 This project is created for educational and learning purposes.   
